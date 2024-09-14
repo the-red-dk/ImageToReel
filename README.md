@@ -9,8 +9,7 @@ A standalone executable that converts images (JPEGs) into short videos, typicall
 
 <h3>Installation:</h3>
 
-Click on Code(green button) on the top right and download the Code as ZIP
-Extract the zip file into your desired folder and run the BatchVideo.exe file
+Go to the <a href = "https://github.com/the-red-dk/ImageToReel/releases/tag/executable">releases</a> page and download the BatchVideo.zip file
 
 <h3>Usage:</h3>
 
