@@ -19,7 +19,6 @@ Go to the <a href = "https://github.com/the-red-dk/ImageToReel/releases/tag/exec
 
 <h3>Notes:</h3> 
 This executable file requires no additional software or dependencies to be installed.
-For more customization or troubleshooting, you can contact me on <a href = "https://www.instagram.com/the_red_dk">Instagram</a>  
 <br>
 
 **Made with:** 
@@ -29,3 +28,7 @@ Python modules OS, Subprocess, and Shutil
 <h1>🎦Walkthrough: </h1>
 
 https://github.com/user-attachments/assets/b2120dd9-3cfc-4645-ba04-a8fc3bc1e045
+
+
+<br><br>
+For more customization or troubleshooting, you can contact me on <a href = "https://www.instagram.com/the_red_dk">Instagram</a>  
