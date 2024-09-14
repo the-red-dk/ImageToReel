@@ -1,4 +1,4 @@
-<h1>📹Image-to-Video Converter(Executable)</h1>
+<h1>📹Image-to-Video Converter (Executable)</h1>
 A standalone executable that converts images (JPEGs) into short videos, typically reels for platforms like Instagram.
 
 <h3>Features:</h3>
