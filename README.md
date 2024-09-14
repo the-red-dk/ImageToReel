@@ -3,9 +3,9 @@ A standalone executable that converts images (JPEGs) into short videos, typicall
 
 <h3>Features:</h3>
 
-**Batch conversion:** Processes multiple images at once.
-**Sequential naming:** Automatically names output videos sequentially for easy organization.
-**Duration:** The video outputs a 3 seconds video. Customizable duration soon!
+**Batch conversion:** Processes multiple images at once. <br>
+**Sequential naming:** Automatically names output videos sequentially for easy organization. <br>
+**Duration:** The video outputs a 3 seconds video. Customizable duration soon! <br>
 
 <h3>Installation:</h3>
 
@@ -13,7 +13,7 @@ Go to the <a href = "https://github.com/the-red-dk/ImageToReel/releases/tag/exec
 
 <h3>Usage:</h3>
 
-**Place your images:** Place your JPG (more formats in the future) images in the same directory as the executable(exe file).
+**Place your images:** Place your JPG (more formats in the future) images in the same directory as the executable(exe file).<br>
 **Run the executable**: The tool will automatically process all JPG images in the directory and create corresponding video files and rename all your inputs and outputs in sequential order 
 ```(1.jpg, 1.mp4, 2.jpg, 2.mp4 etc)```
 
