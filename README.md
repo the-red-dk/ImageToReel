@@ -26,6 +26,4 @@ Python modules OS, Subprocess, and Shutil
 
 
 <h1>🎦Walkthrough: </h1>
-
 https://github.com/user-attachments/assets/3aa2f3a3-e181-41a2-8fb2-caf879339fb1
-
