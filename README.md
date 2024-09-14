@@ -5,7 +5,7 @@ A standalone executable that converts images (JPEGs) into short videos, typicall
 
 **Batch conversion:** Processes multiple images at once. <br>
 **Sequential naming:** Automatically names output videos sequentially for easy organization. <br>
-**Duration:** The video outputs a 3 seconds video. Customizable duration soon! <br>
+**Duration:** The video outputs a **3 seconds video.** Customizable duration soon! <br>
 
 <h3>Installation:</h3>
 
