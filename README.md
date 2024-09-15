@@ -10,6 +10,7 @@ A standalone executable that converts images (JPEGs) into short videos, typicall
 <h3>Installation:</h3>
 
 Go to the <a href = "https://github.com/the-red-dk/ImageToReel/releases/tag/executable">releases</a> page and download the BatchVideo.zip file
+**No installation required, it's a portable application**
 
 <h3>Usage:</h3>
 
