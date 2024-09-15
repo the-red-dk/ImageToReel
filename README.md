@@ -23,6 +23,7 @@ This executable file requires no additional software or dependencies to be insta
 
 **Made with:** 
 Python modules OS, Subprocess, and Shutil
+& Ffmpeg 
 <hr>
 
 <h1>🎦Walkthrough: </h1>
